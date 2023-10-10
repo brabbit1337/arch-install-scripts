@@ -106,3 +106,4 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo pacman -S --noconfirm --needed discord
 sudo pacman -S --noconfirm --needed qbittorrent
 sudo pacman -S --noconfirm --needed lutris
+sudo pacman -S --noconfirm --needed flameshot
