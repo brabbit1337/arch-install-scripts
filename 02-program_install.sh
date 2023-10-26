@@ -78,6 +78,7 @@ sudo pacman -S --noconfirm --needed winetricks
 sudo pacman -S --noconfirm --needed gparted
 sudo pacman -S --noconfirm --needed kitty
 sudo pacman -S --noconfirm --needed feh
+sudo pacman -S --noconfirm --needed reflector
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
