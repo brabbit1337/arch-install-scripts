@@ -11,7 +11,6 @@ paru -S --noconfirm --needed tamsyn-font
 paru -S --noconfirm --needed jellyfin
 paru -S --noconfirm --needed sublime-text-4
 paru -S --noconfirm --needed nordzy-cursors
-paru -S --noconfirm --needed brave-bin
 paru -S --noconfirm --needed oversteer
 paru -S --noconfirm --needed xone-dkms
 paru -S --noconfirm --needed protonup-qt-bin
