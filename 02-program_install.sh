@@ -89,7 +89,6 @@ sudo pacman -S ttf-inconsolata --noconfirm --needed
 sudo pacman -S ttf-liberation --noconfirm --needed
 sudo pacman -S ttf-roboto --noconfirm --needed
 sudo pacman -S ttf-ubuntu-font-family --noconfirm --needed
-sudo pacman -S tamsyn-font --noconfirm --needed
 sudo pacman -S noto-fonts-emoji --noconfirm --needed
 sudo pacman -S ttf-font-awesome --noconfirm --needed
 
