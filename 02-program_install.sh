@@ -76,6 +76,7 @@ sudo pacman -S --noconfirm --needed usb_modeswitch
 sudo pacman -S --noconfirm --needed wine
 sudo pacman -S --noconfirm --needed winetricks
 sudo pacman -S --noconfirm --needed gparted
+sudo pacman -S --noconfirm --needed kitty
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
