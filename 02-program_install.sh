@@ -75,6 +75,10 @@ sudo pacman -S --noconfirm --needed wget
 sudo pacman -S --noconfirm --needed usb_modeswitch
 sudo pacman -S --noconfirm --needed wine
 sudo pacman -S --noconfirm --needed winetricks
+sudo pacman -S --noconfirm --needed gparted
+
+# TÖMÖRÍTŐK
+sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
 
 # BETŰTÍPUSOK
 
@@ -105,3 +109,6 @@ sudo pacman -S --noconfirm --needed discord
 sudo pacman -S --noconfirm --needed qbittorrent
 sudo pacman -S --noconfirm --needed lutris
 sudo pacman -S --noconfirm --needed flameshot
+sudo pacman -S --noconfirm --needed vlc
+sudo pacman -S --noconfirm --needed galculator
+sudo pacman -S --noconfirm --needed ristretto
