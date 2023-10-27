@@ -1,0 +1,4 @@
+# OS Prober bekapcsolás
+
+sudo nano /etc/default/grub (Grub config file location)
+sudo grub-mkconfig -o /boot/grub/grub.cfg
