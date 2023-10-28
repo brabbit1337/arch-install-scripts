@@ -62,6 +62,7 @@ sudo pacman -S --noconfirm --needed gnome-system-monitor
 sudo pacman -S --noconfirm --needed thunar
 sudo pacman -S --noconfirm --needed thunar-archive-plugin
 sudo pacman -S --noconfirm --needed thunar-volman
+sudo pacman -S --noconfirm --needed kdeconnect
 sudo pacman -S --noconfirm --needed dunst
 sudo pacman -S --noconfirm --needed picom
 sudo pacman -S --noconfirm --needed lxappearance
