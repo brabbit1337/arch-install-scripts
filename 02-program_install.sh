@@ -56,13 +56,13 @@ echo "change to have a2dp if needed"
 
 # TLP FOR LAPTOPS
 
-#sudo pacman -S --noconfirm --needed tlp
-#sudo systemctl enable tlp.service
-#sudo systemctl start tlp.service
+sudo pacman -S --noconfirm --needed tlp
+sudo systemctl enable tlp.service
+sudo systemctl start tlp.service
 
-#echo "################################################################"
-#echo "####               tlp  software installed              ########"
-#echo "################################################################"
+echo "################################################################"
+echo "####               tlp  software installed              ########"
+echo "################################################################"
 
 # KIEGÉSZÍTŐ PROGRAMOK
 
