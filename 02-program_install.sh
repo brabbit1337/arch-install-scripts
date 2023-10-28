@@ -54,6 +54,16 @@ echo "change to have a2dp if needed"
 #echo "#########   printer management software installed     ##########"
 #echo "################################################################"
 
+# TLP FOR LAPTOPS
+
+#sudo pacman -S --noconfirm --needed tlp
+#sudo systemctl enable tlp.service
+#sudo systemctl start tlp.service
+
+#echo "################################################################"
+#echo "####               tlp  software installed              ########"
+#echo "################################################################"
+
 # KIEGÉSZÍTŐ PROGRAMOK
 
 sudo pacman -S --noconfirm --needed git
