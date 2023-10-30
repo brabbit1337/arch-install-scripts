@@ -66,6 +66,7 @@ echo "################################################################"
 
 # KIEGÉSZÍTŐ PROGRAMOK
 
+sudo pacman -S --noconfirm --needed neofetch
 sudo pacman -S --noconfirm --needed git
 sudo pacman -S --noconfirm --needed gnome-disk-utility
 sudo pacman -S --noconfirm --needed gnome-system-monitor
