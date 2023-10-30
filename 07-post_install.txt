@@ -2,3 +2,7 @@
 
 sudo nano /etc/default/grub (Grub config file location)
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+#Whisker menu super gombbal
+
+xfce4-popup-whiskermenu
