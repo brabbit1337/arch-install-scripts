@@ -19,6 +19,7 @@ paru -S --noconfirm --needed betterdiscordctl
 paru -S --noconfirm --needed heroic-games-launcher
 paru -S --noconfirm --needed thorium-browser-bin
 paru -S --noconfirm --needed nordic-wallpapers
+paru -S --noconfirm --needed dxvk-bin
 
 # Extreme simple fetch
 wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
