@@ -93,6 +93,7 @@ sudo pacman -S --noconfirm --needed feh
 sudo pacman -S --noconfirm --needed reflector
 sudo pacman -S --noconfirm --needed gamemode
 sudo pacman -S --noconfirm --needed lib32-gamemode
+sudo pacman -S --noconfirm --needed conky
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
