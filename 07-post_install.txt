@@ -6,3 +6,9 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 #Whisker menu super gombbal
 
 xfce4-popup-whiskermenu
+
+sudo pacman -Rns $(pacman -Qtdq)
+ 
+-Autologin LightDM
+	sudo groupadd -r autologin
+	sudo gpasswd -a gyorkosi autologin
