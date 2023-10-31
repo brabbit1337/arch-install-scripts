@@ -12,3 +12,6 @@ sudo pacman -Rns $(pacman -Qtdq)
 -Autologin LightDM
 	sudo groupadd -r autologin
 	sudo gpasswd -a gyorkosi autologin
+
+
+mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
