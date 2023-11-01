@@ -15,3 +15,5 @@ sudo pacman -Rns $(pacman -Qtdq)
 
 
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
+
+ZSH Theme - fino
