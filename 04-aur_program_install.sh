@@ -12,7 +12,7 @@ paru -S --noconfirm --needed jellyfin-server
 paru -S --noconfirm --needed sublime-text-4
 paru -S --noconfirm --needed nordzy-cursors
 paru -S --noconfirm --needed oversteer
-paru -S --noconfirm --needed xone-dkms
+paru -S --noconfirm --needed xpadneo-dkms
 paru -S --noconfirm --needed protonup-qt-bin
 paru -S --noconfirm --needed protontricks
 paru -S --noconfirm --needed betterdiscordctl
@@ -20,4 +20,3 @@ paru -S --noconfirm --needed heroic-games-launcher
 paru -S --noconfirm --needed thorium-browser-bin
 paru -S --noconfirm --needed dxvk-bin
 paru -S --noconfirm --needed nordic-wallpapers
-
