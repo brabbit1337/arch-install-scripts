@@ -96,6 +96,7 @@ sudo pacman -S --noconfirm --needed lib32-gamemode
 sudo pacman -S --noconfirm --needed conky
 sudo pacman -S --noconfirm --needed nm-connection-editor
 sudo pacman -S --noconfirm --needed network-manager-applet
+sudo pacman -S --noconfirm --needed zsh
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
@@ -132,3 +133,6 @@ sudo pacman -S --noconfirm --needed flameshot
 sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed ristretto
+
+# OH MY ZSH
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
