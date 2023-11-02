@@ -8,7 +8,6 @@ paru -S --noconfirm --needed goverlay
 paru -S --noconfirm --needed spotify
 paru -S --noconfirm --needed spotify-adblock
 paru -S --noconfirm --needed tamsyn-font
-paru -S --noconfirm --needed jellyfin-server
 paru -S --noconfirm --needed sublime-text-4
 paru -S --noconfirm --needed nordzy-cursors
 paru -S --noconfirm --needed oversteer
