@@ -91,8 +91,6 @@ sudo pacman -S --noconfirm --needed gparted
 sudo pacman -S --noconfirm --needed kitty
 sudo pacman -S --noconfirm --needed feh
 sudo pacman -S --noconfirm --needed reflector
-sudo pacman -S --noconfirm --needed gamemode
-sudo pacman -S --noconfirm --needed lib32-gamemode
 sudo pacman -S --noconfirm --needed conky
 sudo pacman -S --noconfirm --needed nm-connection-editor
 sudo pacman -S --noconfirm --needed network-manager-applet
@@ -136,7 +134,7 @@ sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed ristretto
 sudo pacman -S --noconfirm --needed mangohud lib32-mangohud
-sudo pacman -S --noconfirm --needed goverlay
+sudo pacman -S --noconfirm --needed gamemode lib32-gamemode
 
 # OH MY ZSH
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
