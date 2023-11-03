@@ -3,8 +3,6 @@ set -e
 
 paru -S --noconfirm --needed pamac-aur
 paru -S --noconfirm --needed noto-fonts-cjk
-paru -S --noconfirm --needed mangohud lib32-mangohud
-paru -S --noconfirm --needed goverlay
 paru -S --noconfirm --needed spotify
 paru -S --noconfirm --needed spotify-adblock
 paru -S --noconfirm --needed tamsyn-font
