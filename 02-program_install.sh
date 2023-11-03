@@ -135,6 +135,8 @@ sudo pacman -S --noconfirm --needed flameshot
 sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed ristretto
+sudo pacman -S --noconfirm --needed mangohud lib32-mangohud
+sudo pacman -S --noconfirm --needed goverlay
 
 # OH MY ZSH
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
