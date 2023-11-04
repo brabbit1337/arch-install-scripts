@@ -3,6 +3,9 @@ set -e
 
 sudo pacman -Syyu --noconfirm
 
+# KERNEL HEADERS
+sudo pacman -S --noconfirm --needed linux-zen-headers
+
 # Bejelentketés kezelő
 sudo pacman -S --noconfirm --needed lightdm
 sudo pacman -S --noconfirm --needed lightdm-gtk-greeter
