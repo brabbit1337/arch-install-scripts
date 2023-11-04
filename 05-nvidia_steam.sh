@@ -3,7 +3,7 @@ set -e
 
 # NVIDIA Driver friss
 
-sudo pacman -S --noconfirm --needed nvidia nvidia-utils nvidia-settings
+sudo pacman -S --noconfirm --needed nvidia-dkms nvidia-utils nvidia-settings
 
 # NVIDIA 32 bit libs + LIBS for STEAM
 
