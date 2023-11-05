@@ -34,3 +34,7 @@ sudo fallocate -l 2G swapfile
 sudo chmod 0600 swapfile
 sudo mkswap swapfile
 sudo swapon swapfile
+
+FSTAB-ba beírni /etc/fstab
+
+/swapfile        none        swap        defaults      0 0
