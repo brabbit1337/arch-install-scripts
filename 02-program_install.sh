@@ -96,6 +96,7 @@ sudo pacman -S --noconfirm --needed network-manager-applet
 sudo pacman -S --noconfirm --needed zsh
 sudo pacman -S --noconfirm --needed jellyfin-server
 sudo pacman -S --noconfirm --needed jellyfin-web
+sudo pacman -S --noconfirm --needed kaccounts-providers
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
