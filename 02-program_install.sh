@@ -136,6 +136,7 @@ sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed ristretto
 sudo pacman -S --noconfirm --needed mangohud lib32-mangohud
 sudo pacman -S --noconfirm --needed gamemode lib32-gamemode
+sudo pacman -S --noconfirm --needed archlinux-wallpaper
 
 # OH MY ZSH
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
