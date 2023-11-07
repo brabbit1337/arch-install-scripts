@@ -98,6 +98,8 @@ sudo pacman -S --noconfirm --needed jellyfin-server
 sudo pacman -S --noconfirm --needed jellyfin-web
 sudo pacman -S --noconfirm --needed kaccounts-providers
 sudo pacman -S --noconfirm --needed kio-gdrive
+sudo pacman -S --noconfirm --needed lm_sensors
+sudo pacman -S --noconfirm --needed hddtemp
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
