@@ -28,6 +28,7 @@ sudo swapon swapfile
 
 SWAP FILE KÉSZÍTÉSE (BTRFS)
 
+cd /
 sudo truncate -s 0 swapfile
 sudo chattr +C swapfile
 sudo fallocate -l 2G swapfile
