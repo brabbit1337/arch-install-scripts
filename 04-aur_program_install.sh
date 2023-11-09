@@ -15,3 +15,4 @@ paru -S --noconfirm --needed betterdiscordctl
 paru -S --noconfirm --needed heroic-games-launcher
 paru -S --noconfirm --needed thorium-browser-bin
 paru -S --noconfirm --needed dxvk-bin
+paru -S --noconfirm --needed mugshot
