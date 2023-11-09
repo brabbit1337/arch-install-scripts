@@ -100,6 +100,7 @@ sudo pacman -S --noconfirm --needed kaccounts-providers
 sudo pacman -S --noconfirm --needed kio-gdrive
 sudo pacman -S --noconfirm --needed lm_sensors
 sudo pacman -S --noconfirm --needed hddtemp
+sudo pacman -S --noconfirm --needed arc-gtk-theme
 
 # TÖMÖRÍTŐK
 sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
