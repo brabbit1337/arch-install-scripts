@@ -96,8 +96,6 @@ sudo pacman -S --noconfirm --needed network-manager-applet
 sudo pacman -S --noconfirm --needed zsh
 sudo pacman -S --noconfirm --needed jellyfin-server
 sudo pacman -S --noconfirm --needed jellyfin-web
-sudo pacman -S --noconfirm --needed kaccounts-providers
-sudo pacman -S --noconfirm --needed kio-gdrive
 sudo pacman -S --noconfirm --needed lm_sensors
 sudo pacman -S --noconfirm --needed hddtemp
 sudo pacman -S --noconfirm --needed arc-gtk-theme
