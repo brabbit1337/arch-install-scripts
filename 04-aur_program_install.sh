@@ -7,7 +7,7 @@ paru -S --noconfirm --needed spotify-adblock
 paru -S --noconfirm --needed tamsyn-font
 paru -S --noconfirm --needed sublime-text-4
 paru -S --noconfirm --needed oversteer
-paru -S --noconfirm --needed xpadneo-dkms
+paru -S --noconfirm --needed xone-dkms
 paru -S --noconfirm --needed protonup-qt-bin
 paru -S --noconfirm --needed protontricks
 paru -S --noconfirm --needed betterdiscordctl
